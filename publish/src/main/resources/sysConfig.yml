@@ -1,0 +1,9 @@
+#配置子系统的权限和子模块权限，true则有，false则没有
+public-system:
+  subSystem:
+   moudle-a:
+     function-a: true
+     function-b: false
+   moudle-b:
+     function-a: true
+     function-b: true
